@@ -4,8 +4,14 @@
 - 📫 How to reach me ...
 IF you would like to contact me please do so through either my discord or email
 
-<p align="left">
 
-  <img alt="Discord" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"  height=64> Lownzy#0537
+
+<p align="center">
+
+  [<img alt="Discord" src="https://img.shields.io/badge/-Chat_on_Discord-7289DA.svg?logo=discord&style=flat-square&logoColor=white" height=32>](https://discord.gg)
+  
+  Lownzy#0537 
 
 </p>
+
+Malayergun@gmail.com
